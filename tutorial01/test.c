@@ -84,6 +84,6 @@ int main() {
     printf("%d/%d (%3.2f%%) passed\n", test_pass, test_count, test_pass * 100.0 / test_count);
     /*
     return main_ret;
-        测试 git
+        测试 git 2 冲突
     */
 }
